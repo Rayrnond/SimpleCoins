@@ -1,0 +1,9 @@
+name: Coins
+version: ${project.version}
+main: me.raymonddev.coins.Coins
+author: Raymond
+description: Made for Devnics Plugin Developer Application
+website: https://github.com/rayrnond
+commands:
+  coins:
+    usage: /coins
